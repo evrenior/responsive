@@ -1,35 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Проба отзывчивой верстки</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Responsive page example</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-	<div id="page">
-		<div class="blog section">
-			<h1 class="lede">
-				Почитать Блог Дениса 
-				<a href="#">
-					Далее...
-				</a>
-			</h1>
-			<div class="main">
-				<p  class="article">
-					<div class="header">
-						<div class="date">
-							10
-						</div>
-						<div class="title">
-							Aliquid illum tempora 
-						</div>
-					</div>
-					
-					Nostrum voluptatibus optio, autem dicta. Maiores, reprehenderit. 
-					Somewhere in my stomach I felt a cold, hard knot. Take stainless steel alloyed with titanium and plate it with three inches of lead. Take a brain made up of super-charged magnetic crystals enclosed in a leaden cranium and shielded by alloy steel. A bullet wouldn’t pierce it; radiations wouldn’t derange it; an axe wouldn’t break it.“Let’s go to town,” I said.They looked at me admiringly. With three hundred almost indestructible androids on the loose I was the big brave hero. I grinned at them and hoped they couldn’t see the sweat on my face. Then I walked over to the Copter and climbed in.“Coming?” I asked.Jack was pale under his freckles but Chief Dalton grinned back at me. “We’ll be right behind you, Morrison,” he said.
-					<div class="figure">
-						<p>
+    <div id="page">
+        <div class="blog section">
+            <h1 class="lede">
+	    Read Denis blog
+                <a href="#">More...</a>
+            </h1>
+            <div class="main">
+                <p  class="article">
+                    <div class="header">
+                        <div class="date">
+                            10
+                        </div>
+                        <div class="title">
+                            Aliquid illum tempora 
+                        </div>
+                    </div>			
+                    Nostrum voluptatibus optio, autem dicta. Maiores, reprehenderit. 
+                    Somewhere in my stomach I felt a cold, hard knot. Take stainless steel alloyed with titanium and plate it with three inches of lead. Take a brain made up of super-charged magnetic crystals enclosed in a leaden cranium and shielded by alloy steel. A bullet wouldn’t pierce it; radiations wouldn’t derange it; an axe wouldn’t break it.“Let’s go to town,” I said.They looked at me admiringly. With three hundred almost indestructible androids on the loose I was the big brave hero. I grinned at them and hoped they couldn’t see the sweat on my face. Then I walked over to the Copter and climbed in.“Coming?” I asked.Jack was pale under his freckles but Chief Dalton grinned back at me. “We’ll be right behind you, Morrison,” he said.
+                    <div class="figure">
+                        <p>
 							<img src="images/1.jpeg" alt="car" />
 							<b class="figcaption"> Где-то тут был робот.</b>	
 						</p>	

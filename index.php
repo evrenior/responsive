@@ -47,42 +47,42 @@
                         labore architecto mollitia! 
                     </p>	
                     <p  class="article">
-					<div class="header">
-						<div class="date">
-							8
-						</div>
-						<div class="title">
-							Quis illum, quos, harum architecto asperiores 
-						</div>
-					</div>
-					Iure sequi accusantium a deserunt dolor velit quod unde, iste doloribus tenetur quo totam 
-					doloremque quasi adipisci tempore magni fugiat non nostrum excepturi. 
-					Facere neque iusto, ipsum quis.	
-				</p>
-			</div> <!-- end main -->
-			<div class="other">
-				<p  class="recent-entries">
-					Name Last name
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-					Ex accusantium delectus numquam fugit quaerat neque quis, 
-					doloribus, quo laboriosam culpa nostrum deleniti ipsum dolores 
-					blanditiis quasi vitae eum dolor. 
-				</p>	
-				<p  class="recent-entries">
-					Pariatur.
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-					Earum numquam nam tempora. Eaque veritatis consequatur 
-					consequuntur, itaque. 
-				</p>	
-				<p  class="recent-entries">
-					Name Last name
-					Distinctio id veniam voluptates voluptatum, 
-					enim nisi maxime atque dolor quasi maiores eum reiciendis a incidunt 
-					perspiciatis cupiditate laborum accusantium libero ut itaque unde 
-					consequatur dignissimos odio error voluptatibus. 
-				</p>	
-			</div>	<!-- end other -->	
-		</div>
-	</div>	
-</body>
+                        <div class="header">
+                            <div class="date">
+                                8
+                            </div>
+                            <div class="title">
+                                Quis illum, quos, harum architecto asperiores 
+                            </div>
+                        </div>
+                        Iure sequi accusantium a deserunt dolor velit quod unde, iste doloribus tenetur quo totam 
+                        doloremque quasi adipisci tempore magni fugiat non nostrum excepturi. 
+                        Facere neque iusto, ipsum quis.	
+                    </p>
+                </div> <!-- end main -->
+                <div class="other">
+                    <p  class="recent-entries">
+                        Name Last name
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Ex accusantium delectus numquam fugit quaerat neque quis, 
+                        doloribus, quo laboriosam culpa nostrum deleniti ipsum dolores 
+                        blanditiis quasi vitae eum dolor. 
+                    </p>	
+                    <p  class="recent-entries">
+                        Pariatur.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Earum numquam nam tempora. Eaque veritatis consequatur 
+                        consequuntur, itaque. 
+                    </p>	
+                    <p  class="recent-entries">
+                        Name Last name
+                        Distinctio id veniam voluptates voluptatum, 
+                        enim nisi maxime atque dolor quasi maiores eum reiciendis a incidunt 
+                        perspiciatis cupiditate laborum accusantium libero ut itaque unde 
+                        consequatur dignissimos odio error voluptatibus. 
+                    </p>	
+                </div>	<!-- end other -->	
+            </div>
+        </div>	
+    </body>
 </html>

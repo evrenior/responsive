@@ -28,7 +28,7 @@
                     <div class="figure">
                         <p>
                             <img src="images/1.jpeg" alt="car" />
-                            <b class="figcaption"> Где-то тут был робот.</b>	
+                            <b class="figcaption"> Somewhere here was a robot</b>	
                         </p>	
                     </div>
                     Animi inventore dolore illum ipsa? Behind me! So they could pick up the pieces. I gave them a cocky smile and switched on the engine, full speed.Carron City is about a mile from the plant. It has about fifty thousand inhabitants. At that moment, though, there wasn’t a soul in the streets. I heard people calling to each other inside their houses, but I didn’t see anyone, human or android. I circled in for a landing, the Police Copter hovering maybe a quarter of a mile back of me. Then, as the wheels touched, half a dozen androids came around the corner. They saw me and stopped, a couple of them backing off the way they had come. But the biggest of them turned and gave them some order that froze them in their tracks, and then he himself wheeled down toward me.
@@ -59,7 +59,7 @@
                         doloremque quasi adipisci tempore magni fugiat non nostrum excepturi. 
                         Facere neque iusto, ipsum quis.	
                     </p>
-                </div> <!-- end main -->
+                </div> 
                 <div class="other">
                     <p  class="recent-entries">
                         Name Last name
@@ -81,7 +81,7 @@
                         perspiciatis cupiditate laborum accusantium libero ut itaque unde 
                         consequatur dignissimos odio error voluptatibus. 
                     </p>	
-                </div>	<!-- end other -->	
+                </div>	
             </div>
         </div>	
     </body>
